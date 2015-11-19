@@ -52,7 +52,7 @@
 			<url>http://www.apache.org/licenses/LICENSE-2.0.html</url>
 			<distribution>repo</distribution>
 		</license>
-	</licenses
+	</licenses>
 	<properties>
 	    <!-- Jacoco Properties -->
 	    <jacoco.version>0.7.4.201502262128</jacoco.version>
